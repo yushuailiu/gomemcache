@@ -1,0 +1,1 @@
+源库地址为：https://github.com/bradfitz/gomemcache/ 本项目作为学习使用
